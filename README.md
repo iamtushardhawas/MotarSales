@@ -42,3 +42,7 @@
  🌟Dynamic line and bar charts for visualizing performance.
  🌟Identifies revenue fluctuations and sales growth patterns
  🌟Enables real-time, data-driven decision-making.
+
+6. Screenshot/Demo
+Take a Look:
+https://github.com/iamtushardhawas/MotarSales/commit/9637150507ceaae7f2632616e0214036284a6d43
